@@ -1,6 +1,6 @@
 ---
 title: "PA1_template.Rmd"
-author: "Your Name"
+author: "Almanischemann"
 date: "2025-09-05"
 output:
   html_document:
@@ -35,6 +35,6 @@ summary(cars)
 
 You can also embed plots, for example:
 
-![plot of chunk pressure](figure/pressure-1.png)
+![](PA1_template_files/figure-html/pressure-1.png)<!-- -->
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
